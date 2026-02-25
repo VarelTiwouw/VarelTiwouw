@@ -1,77 +1,87 @@
-<h1 align="left">Hey 👋</h1>
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h3 align="center">Fullstack Developer | AI Enthusiast | Problem Solver</h3>
 
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/VarelTiwouw/VarelTiwouw/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@r/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@r/0" alt="Medium post 1"  />
+<p align="center">
+  <a href="https://github.com/USERNAMEKAMU">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Engineer;Always+Learning+New+Things;Building+Impactful+Projects&center=true&width=500&height=50">
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@r/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@r/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@r/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@r/2" alt="Medium post 3"  />
-  </a>
-</div>
+</p>
 
-###
+---
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+## 🚀 About Me
+- 🔭 I’m currently working on **Web & AI Projects**
+- 🌱 I’m currently learning **Machine Learning & System Design**
+- 💬 Ask me about **JavaScript, Golang, Python**
+- 📫 Reach me at: **emailkamu@gmail.com**
+- ⚡ Fun fact: I love turning ideas into real products
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=VarelTiwouw&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+## 🛠 Tech Stack
 
-###
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,go,python,java,php" />
+</p>
+
+### 🌐 Frontend & Backend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,bootstrap" />
+</p>
+
+### 🗄 Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### ⚙ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAMEKAMU&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+- 🚀 **Project 1** – Short description about your project
+- 📱 **Project 2** – Short description
+- 🤖 **Project 3** – AI / ML Project
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/USERNAMEKAMU"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/USERNAMEKAMU"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://github.com/USERNAMEKAMU"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAMEKAMU&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
+> “Stay hungry, stay foolish.” – Steve Jobs
