@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **Web & AI Projects**
 - 🌱 I’m currently learning **Machine Learning & System Design**
 - 💬 Ask me about **JavaScript, Golang, Python**
-- 📫 Reach me at: **emailkamu@gmail.com**
+- 📫 Reach me at: **varelkarolus2@gmail.com**
 - ⚡ Fun fact: I love turning ideas into real products
 
 ---
